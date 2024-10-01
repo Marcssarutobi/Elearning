@@ -4,7 +4,7 @@
         ================================================== -->
         <header class="header-style1 menu_area-light">
 
-            <div class="navbar-default border-bottom border-color-light-white">
+            <div class="navbar-default border-bottom border-color-light-white" style="height: 78px;">
 
                 <!-- start top search -->
                 <div class="top-search bg-primary">
@@ -27,9 +27,9 @@
                         <div class="col-12 col-lg-12">
                             <div class="menu_area alt-font">
                                 <nav class="navbar navbar-expand-lg navbar-light p-0">
-                                    <div class="navbar-header navbar-header-custom">
+                                    <div class="navbar-header py-1 navbar-header-custom" style="width: 150px;height:75px;">
                                         <!-- start logo -->
-                                        <a href="index.html" class="navbar-brand"><img id="logo" src="../../../public/img/logos/logo-inner.png" alt="logo" /></a>
+                                        <a href="index.html" class="navbar-brand"><img  id="logo" src="../../../public/img/logos/logo-inner.png" alt="logo" /></a>
                                         <!-- end logo -->
                                     </div>
 
@@ -50,7 +50,7 @@
                                     <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
                                         <ul>
                                             <li class="search"><a href="#!"><i class="fas fa-search"></i></a></li>
-                                            <li class="d-none d-xl-inline-block"><a href="contact.html" class="butn md text-white"><i class="fas fa-user icon-arrow before"></i><span class="label">Sign-in / Sign-up</span><i class="fas fa-plus-circle icon-arrow after"></i></a></li>
+                                            <li class="d-none d-xl-inline-block"><router-link to="/login" class="butn md text-white"><i class="fas fa-user icon-arrow before"></i><span class="label">Sign-in / Sign-up</span><i class="fas fa-plus-circle icon-arrow after"></i></router-link></li>
                                         </ul>
                                     </div>
                                     <!-- end attribute navigation -->
@@ -71,5 +71,20 @@
 </script>
 
 <style>
-    
+    .navbar-brand{
+        margin: 0px !important;
+        padding: 0px !important;
+        width: 100%;
+        height: 100%;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    .navbar-brand img{
+        width: 100%;
+        height: 100%;
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: cover;
+    }
 </style>

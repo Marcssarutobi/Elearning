@@ -44,6 +44,22 @@ const routes = [
         path: "/contact",
         component: () => import("./components/contact.vue"),
     },
+    {
+        path: "/login",
+        component: () => import("./components/login.vue"),
+    },
+    {
+        path: "/home",
+        component: () => import("./components/admin/home.vue"),
+    },
+    {
+        path: "/courseadmin",
+        component: () => import("./components/admin/course.vue"),
+    },
+    {
+        path: "/sessionsadmin",
+        component: () => import("./components/admin/session.vue"),
+    },
 ];
 
 const router = createRouter({

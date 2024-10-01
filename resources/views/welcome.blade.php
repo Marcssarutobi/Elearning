@@ -21,10 +21,53 @@
         <!-- quform css -->
         <link rel="stylesheet" href="quform/css/base.css">
 
+
+         <link
+      rel="stylesheet"
+      data-purpose="Layout StyleSheet"
+      title="Web Awesome"
+      href="/css/app-wa-462758aa1e172f82d39e1ea35e919e0a.css?vsn=d"
+    >
+
+      <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.6.0/css/all.css"
+      >
+
+      <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.6.0/css/sharp-duotone-solid.css"
+      >
+
+      <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.6.0/css/sharp-thin.css"
+      >
+
+      <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.6.0/css/sharp-solid.css"
+      >
+
+      <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.6.0/css/sharp-regular.css"
+      >
+
+      <link
+        rel="stylesheet"
+        href="https://site-assets.fontawesome.com/releases/v6.6.0/css/sharp-light.css"
+      >
+
+       
+
         <!-- core style css -->
         <link href="css/styles.css" rel="stylesheet" />
 
        @vite(['resources/css/app.css', 'resources/js/app.js'])
+
+        <!-- <link rel="stylesheet" href="admin/css/backend-plugin.min.css">
+        <link rel="stylesheet" href="admin/css/backend.css?v=1.0.0"> -->
 
     </head>
     <body>
@@ -57,5 +100,22 @@
         <script src="quform/js/scripts.js"></script>
 
         <!-- all js include end -->
+
+        <!-- Backend Bundle JavaScript -->
+        <script src="admin/js/backend-bundle.min.js"></script>
+        
+        <!-- Table Treeview JavaScript -->
+        <script src="admin/js/table-treeview.js"></script>
+        
+        <!-- Chart Custom JavaScript -->
+        <script src="admin/js/customizer.js"></script>
+        
+        <!-- Chart Custom JavaScript -->
+        <script async src="admin/js/chart-custom.js"></script>
+        <!-- Chart Custom JavaScript -->
+        <script async src="admin/js/slider.js"></script>
+        
+        <!-- app JavaScript -->
+        <script src="admin/js/app.js"></script>
     </body>
 </html>

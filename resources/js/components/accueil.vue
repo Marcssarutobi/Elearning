@@ -10,7 +10,7 @@
                         <div class="container pt-6 pt-md-0">
                             <div class="row align-items-center">
                                 <div class="col-md-10 col-lg-8 col-xl-7 mb-1-9 mb-lg-0 py-6 position-relative">
-                                    <span class="h5 text-secondary">Enjoy smooth learning</span>
+                                    <span class="h5 text-white">Enjoy smooth learning</span>
                                     <h1 class="display-2 font-weight-800 mb-2-6 title text-white">Best Education Template Ever!</h1>
                                     <a href="contact.html" class="butn my-1 mx-1"><i class="fas fa-plus-circle icon-arrow before"></i><span class="label">Learn More</span><i class="fas fa-plus-circle icon-arrow after"></i></a>
                                     <a href="courses-list.html" class="butn white my-1"><i class="fas fa-plus-circle icon-arrow before"></i><span class="label">Our Courses</span><i class="fas fa-plus-circle icon-arrow after"></i></a>
@@ -22,7 +22,7 @@
                         <div class="container pt-6 pt-md-0">
                             <div class="row align-items-center">
                                 <div class="col-md-10 col-lg-8 col-xl-7 mb-1-9 mb-lg-0 py-6 position-relative">
-                                    <span class="h5 text-secondary">Enjoy smooth learning</span>
+                                    <span class="h5 text-white">Enjoy smooth learning</span>
                                     <h2 class="display-2 font-weight-800 mb-2-6 title text-white">Learn From Online Training</h2>
                                     <a href="contact.html" class="butn my-1 mx-1"><i class="fas fa-plus-circle icon-arrow before"></i><span class="label">Learn More</span><i class="fas fa-plus-circle icon-arrow after"></i></a>
                                     <a href="courses-list.html" class="butn white my-1"><i class="fas fa-plus-circle icon-arrow before"></i><span class="label">Our Courses</span><i class="fas fa-plus-circle icon-arrow after"></i></a>
@@ -34,7 +34,7 @@
                         <div class="container pt-6 pt-md-0">
                             <div class="row align-items-center">
                                 <div class="col-md-10 col-lg-8 col-xl-7 mb-1-9 mb-lg-0 py-6 position-relative">
-                                    <span class="h5 text-secondary">Enjoy smooth learning</span>
+                                    <span class="h5 text-white">Enjoy smooth learning</span>
                                     <h2 class="display-2 font-weight-800 mb-2-6 title text-white">More than 50+ Online Courses</h2>
                                     <a href="contact.html" class="butn my-1 mx-1"><i class="fas fa-plus-circle icon-arrow before"></i><span class="label">Learn More</span><i class="fas fa-plus-circle icon-arrow after"></i></a>
                                     <a href="courses-list.html" class="butn white my-1"><i class="fas fa-plus-circle icon-arrow before"></i><span class="label">Our Courses</span><i class="fas fa-plus-circle icon-arrow after"></i></a>
@@ -61,7 +61,7 @@
                                     <div class="card-icon">
                                         <i class="ti-rocket"></i>
                                     </div>
-                                    <h4 class="ms-4 mb-0">Learn Anything</h4>
+                                    <h4 class="ms-4 mb-0"> Formation en langues</h4>
                                 </div>
                                 <div>
                                     <p class="mb-3">It was popularised in the 1960s with the release of Letraset sheets containing.</p>
@@ -77,7 +77,7 @@
                                     <div class="card-icon">
                                         <i class="ti-world"></i>
                                     </div>
-                                    <h4 class="ms-4 mb-0">Learn Together</h4>
+                                    <h4 class="ms-4 mb-0">Traduction</h4>
                                 </div>
                                 <div>
                                     <p class="mb-3">It was popularised in the 1960s with the release of Letraset sheets containing.</p>
@@ -93,7 +93,7 @@
                                     <div class="card-icon">
                                         <i class="ti-user"></i>
                                     </div>
-                                    <h4 class="ms-4 mb-0">Learn Experts</h4>
+                                    <h4 class="ms-4 mb-0">Interprétation</h4>
                                 </div>
                                 <div>
                                     <p class="mb-3">It was popularised in the 1960s with the release of Letraset sheets containing.</p>
@@ -132,12 +132,12 @@
                     </div>
                     <div class="col-md-12 col-lg-6 mt-1-9 order-2 order-lg-1">
                         <div class="section-heading text-start mb-2">
-                            <span class="sub-title">welcome!</span>
+                            <span class="sub-title">Bienvenue!</span>
                         </div>
-                        <h2 class="font-weight-800 h1 mb-1-9 text-primary">Learn whenever, anyplace, at your own speed.</h2>
-                        <p class="about-border lead fst-italic mb-1-9">A spot to furnish understudies with sufficient information and abilities in an unpredictable world.</p>
+                        <h2 class="font-weight-800 h1 mb-1-9 text-primary">Relier les Cultures et Favoriser l'échange</h2>
+                        <p class="about-border lead fst-italic mb-1-9">Être un pont entre les cultures du Bénin et celles du monde entier. Nous encourageons une meilleure compréhension entre les peuples grâce à la richesse des langues et des traditions culturelles.</p>
                         <blockquote>
-                            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+                           À travers divers programmes et initiatives, nous facilitons les échanges interculturels et valorisons les contributions de la diaspora béninoise, tout en promouvant des liens forts avec les cultures étrangères.
                         </blockquote>
                         <div class="dotted-seprator pt-1-9 mt-1-9"></div>
                         <div class="row">
@@ -145,8 +145,8 @@
                                 <div class="media">
                                     <i class="ti-mobile display-15 text-secondary"></i>
                                     <div class="media-body align-self-center ms-3">
-                                        <h4 class="mb-1 h5">Phone Number</h4>
-                                        <p class="mb-0">(123)-456-789</p>
+                                        <h4 class="mb-1 h5">Téléphone</h4>
+                                        <p class="mb-0">+229 57 92 94 77</p>
                                     </div>
                                 </div>
                             </div>
@@ -154,8 +154,8 @@
                                 <div class="media">
                                     <i class="ti-email display-15 text-secondary"></i>
                                     <div class="media-body align-self-center ms-3">
-                                        <h4 class="mb-1 h5">Email Address</h4>
-                                        <p class="mb-0">Info@mail.com</p>
+                                        <h4 class="mb-1 h5">Adresse Email</h4>
+                                        <p class="mb-0">bridge1connect@gmail.com</p>
                                     </div>
                                 </div>
                             </div>
@@ -176,8 +176,8 @@
         <section class="bg-very-light-gray">
             <div class="container">
                 <div class="section-heading">
-                    <span class="sub-title">discover new</span>
-                    <h2 class="h1 mb-0">Our Online Courses</h2>
+                    <span class="sub-title">Découvrir du Nouveau</span>
+                    <h2 class="h1 mb-0">Nos Cours en Ligne</h2>
                 </div>
                 <div class="row g-xxl-5 mt-n2-6">
                     <div class="col-md-6 col-xl-4 mt-2-6">
@@ -375,8 +375,8 @@
         <section class="bg-very-light-gray position-relative">
             <div class="container">
                 <div class="section-heading">
-                    <span class="sub-title">Instructors</span>
-                    <h2 class="h1 mb-0">Experience Instructors</h2>
+                    <span class="sub-title">Instructeurs</span>
+                    <h2 class="h1 mb-0">Découvrez nos Instructeurs</h2>
                 </div>
                 <div class="row position-relative mt-n1-9">
                     <div class="col-md-6 col-lg-4 mt-1-9">
